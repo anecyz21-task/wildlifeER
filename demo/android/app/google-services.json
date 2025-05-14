@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "317555003935",
+    "project_id": "wildlifeer-29cec",
+    "storage_bucket": "wildlifeer-29cec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317555003935:android:5127a971d96bcccdafbb2a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7qduu8ujfo0yfITSaLXtnwWyQyq1Wfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317555003935:android:f90808beff951d58afbb2a",
+        "android_client_info": {
+          "package_name": "com.example.wildlifeer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7qduu8ujfo0yfITSaLXtnwWyQyq1Wfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317555003935:android:4654714924113dfaafbb2a",
+        "android_client_info": {
+          "package_name": "com.wildlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7qduu8ujfo0yfITSaLXtnwWyQyq1Wfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317555003935:android:36e35d6e3d27e984afbb2a",
+        "android_client_info": {
+          "package_name": "com.wildlifeer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7qduu8ujfo0yfITSaLXtnwWyQyq1Wfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317555003935:android:f6da7cd0d32aa262afbb2a",
+        "android_client_info": {
+          "package_name": "com.wildlifeer.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7qduu8ujfo0yfITSaLXtnwWyQyq1Wfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317555003935:android:f6da7cd0d32aa262afbb2a",
+        "android_client_info": {
+          "package_name": "com.wildlifeer.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7qduu8ujfo0yfITSaLXtnwWyQyq1Wfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
